@@ -1,0 +1,33 @@
+.container {
+	width: 1024px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.game-area {
+	text-align: center;
+	min-height: 300px;
+	margin: 0 auto;
+}
+
+.game-info {
+	min-height: 200px;
+}
+
+.game-table {
+	margin: 50px auto;
+}
+
+.game-table td{
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+}
+
+.center-align {
+	text-align: center;
+}
+
+.selected {
+	background-color: grey;
+}
